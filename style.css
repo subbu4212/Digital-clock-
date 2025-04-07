@@ -1,2 +1,17 @@
 *{
-  background: linear-gradient(to right,#f3904f,#3b4371);
+    background: linear-gradient(to right,#f3904f,#3b4371);
+}
+.clock{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    
+}
+h2{
+    margin-right:30px;
+    width:50%;
+}
+p{
+    border:2px solid black;
+    width:50%;
+}
